@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="42.541333333333334" lon="-70.8455">
+    <name>B : Quick Flash, Hospital Point</name>
+  </wpt>
+  <wpt lat="42.537166666666664" lon="-70.85216666666666">
+    <name>C : Between Haste &amp; Salem Willows</name>
+  </wpt>
+  <wpt lat="42.543" lon="-70.83916666666667">
+    <name>D : Slow Flash, Curtis Point</name>
+  </wpt>
+  <wpt lat="42.5455" lon="-70.83916666666667">
+    <name>G : Near Mingo Beach</name>
+  </wpt>
+  <wpt lat="42.53616666666667" lon="-70.83366666666667">
+    <name>H : Near Haste &amp; Outfall</name>
+  </wpt>
+  <wpt lat="42.527833333333334" lon="-70.82966666666667">
+    <name>I : Coney Ledge</name>
+  </wpt>
+  <wpt lat="42.53" lon="-70.82133333333333">
+    <name>J : West end tail of Eagle Bar</name>
+  </wpt>
+  <wpt lat="42.51883333333333" lon="-70.8245">
+    <name>K : Chappel Ledge, near Gray Rock</name>
+  </wpt>
+  <wpt lat="42.52133333333333" lon="-70.81833333333333">
+    <name>L : Eagle Island</name>
+  </wpt>
+  <wpt lat="42.512" lon="-70.82366666666667">
+    <name>M : Archer Rock, West of Cat Island</name>
+  </wpt>
+  <wpt lat="42.50416666666667" lon="-70.818">
+    <name>N : BELL Marblehead Bell</name>
+  </wpt>
+  <wpt lat="42.516333333333336" lon="-70.813">
+    <name>O : Northeast of Cat Island</name>
+  </wpt>
+  <wpt lat="42.528" lon="-70.80383333333333">
+    <name>P : Between Eagle Island &amp; Bakers Island</name>
+  </wpt>
+  <wpt lat="42.528" lon="-70.7995">
+    <name>Q : Pope Head</name>
+  </wpt>
+  <wpt lat="42.53216666666667" lon="-70.80033333333333">
+    <name>R : South of Hardy Rocks</name>
+  </wpt>
+  <wpt lat="42.54" lon="-70.788">
+    <name>S : Powers Rock</name>
+  </wpt>
+  <wpt lat="42.543" lon="-70.8005">
+    <name>U : West of Misery Island</name>
+  </wpt>
+  <wpt lat="42.5425" lon="-70.80916666666667">
+    <name>V : Bowditch Ledge</name>
+  </wpt>
+  <wpt lat="42.54383333333333" lon="-70.81466666666667">
+    <name>X : John Ledge, NW of Bowditch Ledge</name>
+  </wpt>
+  <wpt lat="42.53216666666667" lon="-70.85583333333334">
+    <name>Y : Near Salem Willows</name>
+  </wpt>
+  <wpt lat="42.522" lon="-70.867">
+    <name>Z : Near Winter Island</name>
+  </wpt>
+</gpx>
